@@ -1,3 +1,3 @@
-CyanogenMod 10.1(Android 4.2) device configuration for HTC Explorer A310e
+SlimBean (Android 4.2.2) device configuration for HTC Explorer A310e
 
-WORK IN PROGRESS.WILL EAT YOUR CAT
+WORK IN PROGRESS
