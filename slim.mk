@@ -1,10 +1,9 @@
-
 # Include GSM stuff
 $(call inherit-product, vendor/slim/config/common_gsm.mk)
 
 DEVICE_PACKAGE_OVERLAYS += device/htc/pico/overlay
 
-# Inherit some common carbon stuff.
+# Inherit some common slim stuff.
 $(call inherit-product, vendor/slim/config/common_phone.mk)
 $(call inherit-product, device/common/gps/gps_eu_supl.mk)
 
